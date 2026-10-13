@@ -51,7 +51,7 @@ Platform pieces that sit beside the session:
 
 The pictures in this document are stand-ins. The banner is the product frame. The grid above is the computer list. The editor below is the session after it is open: the remote screen, with your pointer drawn on top of it.
 
-![Editor Placeholder](ci/image3.jepg)
+![Editor Placeholder](ci/image3.jpeg)
 
 In the editor you see the remote desktop, not a diagram of it. Resolution, color depth, and performance flags decide how heavy that picture is. Those flags are listed in performance_flags.xml and the screen form is [screen_settings.xml](ui/screen_settings.xml). Start with the remote monitor's native size. Drop color depth or effects when the link cannot keep up.
 
